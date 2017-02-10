@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.5.8 (8880 thorn-05.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="51.6370200" minlon="-3.9397600" maxlat="51.6373900" maxlon="-3.9391200"/>
+ <node id="2345072539" visible="true" version="1" changeset="16557434" timestamp="2013-06-15T00:04:28Z" user="terrencem" uid="82241" lat="51.6370429" lon="-3.9395454"/>
+ <node id="2345072541" visible="true" version="1" changeset="16557434" timestamp="2013-06-15T00:04:28Z" user="terrencem" uid="82241" lat="51.6372893" lon="-3.9396366"/>
+ <node id="2345072543" visible="true" version="1" changeset="16557434" timestamp="2013-06-15T00:04:28Z" user="terrencem" uid="82241" lat="51.6371844" lon="-3.9396178"/>
+ <node id="2345072546" visible="true" version="1" changeset="16557434" timestamp="2013-06-15T00:04:28Z" user="terrencem" uid="82241" lat="51.6370629" lon="-3.9397063"/>
+ <node id="2345072547" visible="true" version="1" changeset="16557434" timestamp="2013-06-15T00:04:28Z" user="terrencem" uid="82241" lat="51.6370746" lon="-3.9395561"/>
+ <node id="2345072548" visible="true" version="1" changeset="16557434" timestamp="2013-06-15T00:04:28Z" user="terrencem" uid="82241" lat="51.6373709" lon="-3.9392181"/>
+ <node id="2345072556" visible="true" version="1" changeset="16557434" timestamp="2013-06-15T00:04:28Z" user="terrencem" uid="82241" lat="51.6372893" lon="-3.9396071"/>
+ <node id="2345072563" visible="true" version="1" changeset="16557434" timestamp="2013-06-15T00:04:29Z" user="terrencem" uid="82241" lat="51.6370696" lon="-3.9391779"/>
+ <node id="2345072564" visible="true" version="1" changeset="16557434" timestamp="2013-06-15T00:04:29Z" user="terrencem" uid="82241" lat="51.6371811" lon="-3.9397331"/>
+ <node id="2345072573" visible="true" version="1" changeset="16557434" timestamp="2013-06-15T00:04:29Z" user="terrencem" uid="82241" lat="51.6373426" lon="-3.9396017"/>
+ <way id="225751850" visible="true" version="1" changeset="16557434" timestamp="2013-06-15T00:04:29Z" user="terrencem" uid="82241">
+  <nd ref="2345072548"/>
+  <nd ref="2345072563"/>
+  <nd ref="2345072539"/>
+  <nd ref="2345072547"/>
+  <nd ref="2345072546"/>
+  <nd ref="2345072564"/>
+  <nd ref="2345072543"/>
+  <nd ref="2345072541"/>
+  <nd ref="2345072556"/>
+  <nd ref="2345072573"/>
+  <nd ref="2345072548"/>
+  <tag k="building" v="yes"/>
+ </way>
+</osm>

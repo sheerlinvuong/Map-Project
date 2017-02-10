@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.5.8 (11515 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="51.6397700" minlon="-3.9500900" maxlat="51.6399600" maxlon="-3.9498000"/>
+ <node id="1398506725" visible="true" version="1" changeset="9015013" timestamp="2011-08-14T11:58:04Z" user="mattfromderby" uid="15867" lat="51.6397930" lon="-3.9500222"/>
+ <node id="1398506729" visible="true" version="1" changeset="9015013" timestamp="2011-08-14T11:58:04Z" user="mattfromderby" uid="15867" lat="51.6398013" lon="-3.9500048"/>
+ <node id="1398506732" visible="true" version="1" changeset="9015013" timestamp="2011-08-14T11:58:04Z" user="mattfromderby" uid="15867" lat="51.6399062" lon="-3.9500316"/>
+ <node id="1398506740" visible="true" version="1" changeset="9015013" timestamp="2011-08-14T11:58:04Z" user="mattfromderby" uid="15867" lat="51.6399228" lon="-3.9498747"/>
+ <node id="1398506741" visible="true" version="1" changeset="9015013" timestamp="2011-08-14T11:58:05Z" user="mattfromderby" uid="15867" lat="51.6397796" lon="-3.9499913"/>
+ <node id="1398506743" visible="true" version="1" changeset="9015013" timestamp="2011-08-14T11:58:05Z" user="mattfromderby" uid="15867" lat="51.6398865" lon="-3.9500174"/>
+ <node id="1398506761" visible="true" version="1" changeset="9015013" timestamp="2011-08-14T11:58:05Z" user="mattfromderby" uid="15867" lat="51.6398138" lon="-3.9498572"/>
+ <node id="1398506765" visible="true" version="1" changeset="9015013" timestamp="2011-08-14T11:58:05Z" user="mattfromderby" uid="15867" lat="51.6398795" lon="-3.9499042"/>
+ <node id="1398506772" visible="true" version="1" changeset="9015013" timestamp="2011-08-14T11:58:05Z" user="mattfromderby" uid="15867" lat="51.6398687" lon="-3.9500772"/>
+ <node id="1398506774" visible="true" version="1" changeset="9015013" timestamp="2011-08-14T11:58:05Z" user="mattfromderby" uid="15867" lat="51.6398945" lon="-3.9498532"/>
+ <node id="1398506778" visible="true" version="1" changeset="9015013" timestamp="2011-08-14T11:58:06Z" user="mattfromderby" uid="15867" lat="51.6399444" lon="-3.9498921"/>
+ <way id="126063765" visible="true" version="1" changeset="9015013" timestamp="2011-08-14T11:58:06Z" user="mattfromderby" uid="15867">
+  <nd ref="1398506740"/>
+  <nd ref="1398506778"/>
+  <nd ref="1398506732"/>
+  <nd ref="1398506743"/>
+  <nd ref="1398506772"/>
+  <nd ref="1398506725"/>
+  <nd ref="1398506729"/>
+  <nd ref="1398506741"/>
+  <nd ref="1398506761"/>
+  <nd ref="1398506765"/>
+  <nd ref="1398506774"/>
+  <nd ref="1398506740"/>
+  <tag k="building" v="yes"/>
+ </way>
+</osm>

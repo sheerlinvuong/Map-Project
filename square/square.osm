@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.5.8 (8640 thorn-04.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="51.6411200" minlon="-3.9354800" maxlat="51.6414600" maxlon="-3.9349700"/>
+ <node id="604632550" visible="true" version="2" changeset="25421146" timestamp="2014-09-13T21:51:12Z" user="Hillblagger" uid="87826" lat="51.6413707" lon="-3.9354704"/>
+ <node id="786840742" visible="true" version="1" changeset="5064555" timestamp="2010-06-24T09:11:16Z" user="CGT" uid="260271" lat="51.6413228" lon="-3.9352395">
+  <tag k="amenity" v="pub"/>
+  <tag k="operator" v="Mitchells &amp; Butlers"/>
+ </node>
+ <node id="604632566" visible="true" version="2" changeset="25421146" timestamp="2014-09-13T21:51:13Z" user="Hillblagger" uid="87826" lat="51.6412273" lon="-3.9349878"/>
+ <node id="604632557" visible="true" version="2" changeset="25421146" timestamp="2014-09-13T21:51:14Z" user="Hillblagger" uid="87826" lat="51.6414506" lon="-3.9351056"/>
+ <node id="604632573" visible="true" version="2" changeset="25421146" timestamp="2014-09-13T21:51:16Z" user="Hillblagger" uid="87826" lat="51.6411541" lon="-3.9353311"/>
+ <way id="47493455" visible="true" version="6" changeset="40573312" timestamp="2016-07-08T15:27:36Z" user="GinaroZ" uid="3432400">
+  <nd ref="604632550"/>
+  <nd ref="604632557"/>
+  <nd ref="604632566"/>
+  <nd ref="604632573"/>
+  <nd ref="604632550"/>
+  <tag k="amenity" v="restaurant"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Harvester - Morfa Parc"/>
+  <tag k="operator" v="Mitchells &amp; Butlers"/>
+  <tag k="wheelchair" v="yes"/>
+ </way>
+</osm>

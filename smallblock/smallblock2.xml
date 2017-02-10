@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.5.8 (453 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="51.6380700" minlon="-3.9534600" maxlat="51.6383600" maxlon="-3.9530500"/>
+ <node id="1396427820" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:44:02Z" user="mattfromderby" uid="15867" lat="51.6383788" lon="-3.9533092"/>
+ <node id="1396427821" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:44:02Z" user="mattfromderby" uid="15867" lat="51.6383422" lon="-3.9531228"/>
+ <node id="1396427822" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:44:02Z" user="mattfromderby" uid="15867" lat="51.6380318" lon="-3.9533441"/>
+ <node id="1396424416" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:36:53Z" user="mattfromderby" uid="15867" lat="51.6383938" lon="-3.9531322"/>
+ <node id="1396424417" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:36:53Z" user="mattfromderby" uid="15867" lat="51.6384279" lon="-3.9530571"/>
+ <node id="1396424425" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:36:54Z" user="mattfromderby" uid="15867" lat="51.6384279" lon="-3.9530035"/>
+ <node id="1396424435" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:36:54Z" user="mattfromderby" uid="15867" lat="51.6384121" lon="-3.9532368"/>
+ <node id="1396424437" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:36:54Z" user="mattfromderby" uid="15867" lat="51.6380051" lon="-3.9528184"/>
+ <node id="1396424440" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:36:54Z" user="mattfromderby" uid="15867" lat="51.6381758" lon="-3.9528506"/>
+ <node id="1396424453" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:36:55Z" user="mattfromderby" uid="15867" lat="51.6383680" lon="-3.9529525"/>
+ <node id="1396424467" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:36:55Z" user="mattfromderby" uid="15867" lat="51.6380651" lon="-3.9527969"/>
+ <node id="1396424470" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:36:56Z" user="mattfromderby" uid="15867" lat="51.6382998" lon="-3.9529458"/>
+ <node id="1396424471" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:36:56Z" user="mattfromderby" uid="15867" lat="51.6381025" lon="-3.9527889"/>
+ <node id="1396424477" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:36:56Z" user="mattfromderby" uid="15867" lat="51.6381483" lon="-3.9528399"/>
+ <node id="1396424487" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:36:56Z" user="mattfromderby" uid="15867" lat="51.6381325" lon="-3.9528090"/>
+ <node id="1396424512" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:36:57Z" user="mattfromderby" uid="15867" lat="51.6383922" lon="-3.9530906"/>
+ <node id="1396426329" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:41:32Z" user="mattfromderby" uid="15867" lat="51.6383434" lon="-3.9532882"/>
+ <node id="1396426330" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:41:32Z" user="mattfromderby" uid="15867" lat="51.6381916" lon="-3.9531202"/>
+ <node id="1396426331" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:41:32Z" user="mattfromderby" uid="15867" lat="51.6380634" lon="-3.9533762"/>
+ <node id="1396426336" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:41:32Z" user="mattfromderby" uid="15867" lat="51.6383414" lon="-3.9533749"/>
+ <node id="1396426342" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:41:32Z" user="mattfromderby" uid="15867" lat="51.6382939" lon="-3.9531376"/>
+ <node id="1396426344" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:41:32Z" user="mattfromderby" uid="15867" lat="51.6381350" lon="-3.9532650"/>
+ <node id="1396426357" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:41:32Z" user="mattfromderby" uid="15867" lat="51.6381450" lon="-3.9530705"/>
+ <node id="1396426368" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:41:33Z" user="mattfromderby" uid="15867" lat="51.6382934" lon="-3.9532345"/>
+ <node id="1396426377" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:41:33Z" user="mattfromderby" uid="15867" lat="51.6382881" lon="-3.9534245"/>
+ <node id="1396426378" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:41:33Z" user="mattfromderby" uid="15867" lat="51.6382390" lon="-3.9532744"/>
+ <node id="1396426382" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:41:33Z" user="mattfromderby" uid="15867" lat="51.6380834" lon="-3.9532060"/>
+ <node id="1396426384" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:41:33Z" user="mattfromderby" uid="15867" lat="51.6381857" lon="-3.9532221"/>
+ <node id="1396426385" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:41:33Z" user="mattfromderby" uid="15867" lat="51.6380153" lon="-3.9534983"/>
+ <node id="1396426390" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:41:33Z" user="mattfromderby" uid="15867" lat="51.6380376" lon="-3.9534192"/>
+ <node id="1396426393" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:41:33Z" user="mattfromderby" uid="15867" lat="51.6380859" lon="-3.9531134"/>
+ <node id="1396426394" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:41:33Z" user="mattfromderby" uid="15867" lat="51.6380862" lon="-3.9533499"/>
+ <node id="1396426408" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:41:34Z" user="mattfromderby" uid="15867" lat="51.6382348" lon="-3.9533695"/>
+ <node id="1396426411" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:41:34Z" user="mattfromderby" uid="15867" lat="51.6382485" lon="-3.9530803"/>
+ <node id="1396426413" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:41:34Z" user="mattfromderby" uid="15867" lat="51.6382585" lon="-3.9530870"/>
+ <node id="1396427836" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:44:02Z" user="mattfromderby" uid="15867" lat="51.6380218" lon="-3.9528667"/>
+ <node id="1396427839" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:44:02Z" user="mattfromderby" uid="15867" lat="51.6382823" lon="-3.9530397"/>
+ <node id="1396427841" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:44:02Z" user="mattfromderby" uid="15867" lat="51.6382332" lon="-3.9530799"/>
+ <node id="1396427842" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:44:02Z" user="mattfromderby" uid="15867" lat="51.6383417" lon="-3.9532064"/>
+ <node id="1396427843" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:44:02Z" user="mattfromderby" uid="15867" lat="51.6383539" lon="-3.9531698"/>
+ <node id="1396427844" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:44:03Z" user="mattfromderby" uid="15867" lat="51.6380817" lon="-3.9530920"/>
+ <node id="1396427845" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:44:03Z" user="mattfromderby" uid="15867" lat="51.6383425" lon="-3.9531702"/>
+ <node id="1396427846" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:44:03Z" user="mattfromderby" uid="15867" lat="51.6381932" lon="-3.9531014"/>
+ <node id="1396427854" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:44:03Z" user="mattfromderby" uid="15867" lat="51.6383342" lon="-3.9532278"/>
+ <node id="1396427858" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:44:03Z" user="mattfromderby" uid="15867" lat="51.6380293" lon="-3.9533695"/>
+ <node id="1396427861" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:44:03Z" user="mattfromderby" uid="15867" lat="51.6379414" lon="-3.9533137"/>
+ <node id="1396427864" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:44:03Z" user="mattfromderby" uid="15867" lat="51.6383530" lon="-3.9531966"/>
+ <node id="1396427867" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:44:03Z" user="mattfromderby" uid="15867" lat="51.6382706" lon="-3.9530732"/>
+ <node id="1396427868" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:44:03Z" user="mattfromderby" uid="15867" lat="51.6380301" lon="-3.9531845"/>
+ <node id="1396427869" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:44:03Z" user="mattfromderby" uid="15867" lat="51.6383142" lon="-3.9531219"/>
+ <node id="1396427879" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:44:03Z" user="mattfromderby" uid="15867" lat="51.6380675" lon="-3.9532167"/>
+ <node id="1396427882" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:44:03Z" user="mattfromderby" uid="15867" lat="51.6379876" lon="-3.9532972"/>
+ <node id="1396427884" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:44:03Z" user="mattfromderby" uid="15867" lat="51.6380068" lon="-3.9533896"/>
+ <node id="1396427889" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:44:03Z" user="mattfromderby" uid="15867" lat="51.6382224" lon="-3.9530290"/>
+ <node id="1396427891" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:44:03Z" user="mattfromderby" uid="15867" lat="51.6382518" lon="-3.9530066"/>
+ <node id="1396427892" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:44:03Z" user="mattfromderby" uid="15867" lat="51.6381466" lon="-3.9530424"/>
+ <node id="1396427907" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:44:04Z" user="mattfromderby" uid="15867" lat="51.6383372" lon="-3.9532489"/>
+ <node id="1396427873" visible="true" version="2" changeset="9253810" timestamp="2011-09-09T12:03:54Z" user="rollercow" uid="7321" lat="51.6380917" lon="-3.9529427"/>
+ <way id="125813634" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:41:34Z" user="mattfromderby" uid="15867">
+  <nd ref="1396426336"/>
+  <nd ref="1396426329"/>
+  <nd ref="1396426368"/>
+  <nd ref="1396426342"/>
+  <nd ref="1396426413"/>
+  <nd ref="1396426411"/>
+  <nd ref="1396426330"/>
+  <nd ref="1396426357"/>
+  <nd ref="1396426393"/>
+  <nd ref="1396426382"/>
+  <nd ref="1396426344"/>
+  <nd ref="1396426384"/>
+  <nd ref="1396426378"/>
+  <nd ref="1396426408"/>
+  <nd ref="1396426377"/>
+  <nd ref="1396426336"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="125813635" visible="true" version="1" changeset="8999125" timestamp="2011-08-12T20:41:34Z" user="mattfromderby" uid="15867">
+  <nd ref="1396426385"/>
+  <nd ref="1396426390"/>
+  <nd ref="1396426331"/>
+  <nd ref="1396426394"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="125813769" visible="true" version="2" changeset="9253810" timestamp="2011-09-09T12:03:51Z" user="rollercow" uid="7321">
+  <nd ref="1396427873"/>
+  <nd ref="1396427836"/>
+  <nd ref="1396424437"/>
+  <nd ref="1396424467"/>
+  <nd ref="1396424471"/>
+  <nd ref="1396424487"/>
+  <nd ref="1396424477"/>
+  <nd ref="1396424440"/>
+  <nd ref="1396424470"/>
+  <nd ref="1396424453"/>
+  <nd ref="1396424425"/>
+  <nd ref="1396424417"/>
+  <nd ref="1396424512"/>
+  <nd ref="1396424416"/>
+  <nd ref="1396424435"/>
+  <nd ref="1396427820"/>
+  <nd ref="1396427907"/>
+  <nd ref="1396427854"/>
+  <nd ref="1396427842"/>
+  <nd ref="1396427864"/>
+  <nd ref="1396427843"/>
+  <nd ref="1396427845"/>
+  <nd ref="1396427821"/>
+  <nd ref="1396427869"/>
+  <nd ref="1396427867"/>
+  <nd ref="1396427839"/>
+  <nd ref="1396427891"/>
+  <nd ref="1396427889"/>
+  <nd ref="1396427841"/>
+  <nd ref="1396427846"/>
+  <nd ref="1396427892"/>
+  <nd ref="1396427844"/>
+  <nd ref="1396427879"/>
+  <nd ref="1396427868"/>
+  <nd ref="1396427882"/>
+  <nd ref="1396427822"/>
+  <nd ref="1396427858"/>
+  <nd ref="1396427884"/>
+  <nd ref="1396427861"/>
+  <nd ref="1396427873"/>
+  <tag k="landuse" v="grass"/>
+ </way>
+ <relation id="1746929" visible="true" version="4" changeset="24615681" timestamp="2014-08-08T13:31:43Z" user="rollercow" uid="7321">
+  <member type="way" ref="296677375" role="inner"/>
+  <member type="way" ref="126059550" role="inner"/>
+  <member type="way" ref="125812535" role="inner"/>
+  <member type="way" ref="125812538" role="inner"/>
+  <member type="way" ref="125812536" role="inner"/>
+  <member type="way" ref="125812537" role="inner"/>
+  <member type="way" ref="125812539" role="inner"/>
+  <member type="way" ref="125811725" role="inner"/>
+  <member type="way" ref="125810695" role="inner"/>
+  <member type="way" ref="125832961" role="inner"/>
+  <member type="way" ref="125813769" role="inner"/>
+  <member type="way" ref="125813430" role="inner"/>
+  <member type="way" ref="125813431" role="inner"/>
+  <member type="way" ref="125948441" role="inner"/>
+  <member type="way" ref="48981709" role="inner"/>
+  <member type="way" ref="24628577" role="inner"/>
+  <member type="way" ref="126058988" role="inner"/>
+  <member type="way" ref="56223530" role="inner"/>
+  <member type="way" ref="129415394" role="inner"/>
+  <member type="way" ref="129415389" role="inner"/>
+  <member type="way" ref="129415400" role="outer"/>
+  <member type="way" ref="129399745" role="outer"/>
+  <member type="way" ref="129415387" role="outer"/>
+  <member type="way" ref="60852052" role="outer"/>
+  <member type="way" ref="24269951" role="outer"/>
+  <member type="way" ref="129415377" role="outer"/>
+  <member type="way" ref="41474514" role="outer"/>
+  <member type="way" ref="296677389" role="outer"/>
+  <member type="way" ref="296677390" role="outer"/>
+  <member type="way" ref="41474516" role="outer"/>
+  <member type="way" ref="129399734" role="outer"/>
+  <member type="way" ref="129415385" role="outer"/>
+  <member type="way" ref="176488084" role="outer"/>
+  <member type="way" ref="96904611" role="outer"/>
+  <member type="way" ref="129215695" role="outer"/>
+  <member type="way" ref="69906447" role="outer"/>
+  <member type="way" ref="129215676" role="outer"/>
+  <member type="way" ref="129215667" role="outer"/>
+  <member type="way" ref="129215704" role="outer"/>
+  <member type="way" ref="37189963" role="outer"/>
+  <member type="way" ref="96904601" role="outer"/>
+  <member type="way" ref="41436667" role="outer"/>
+  <member type="way" ref="96904604" role="outer"/>
+  <member type="way" ref="96904613" role="outer"/>
+  <member type="way" ref="125332637" role="outer"/>
+  <member type="way" ref="26430080" role="outer"/>
+  <member type="way" ref="125332678" role="outer"/>
+  <tag k="landuse" v="residential"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+</osm>
