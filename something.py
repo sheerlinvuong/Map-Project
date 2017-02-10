@@ -7,7 +7,6 @@ x = [0,1,1,0]
 y = [0,0,1,1]
 z = [0,1,0,1]
 
-print ("hello world") #test git
 verts = [zip(x, y,z)]
 ax.add_collection3d(PolyCollection(verts),zs=z)
 plt.show()
