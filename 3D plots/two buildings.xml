@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.5.8 (4341 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="51.4817500" minlon="-0.1780600" maxlat="51.4818800" maxlon="-0.1777100"/>
+ <node id="1271221896" visible="true" version="1" changeset="8040791" timestamp="2011-05-03T15:54:03Z" user="Ed Avis" uid="31257" lat="51.4818491" lon="-0.1778879"/>
+ <node id="1271221898" visible="true" version="1" changeset="8040791" timestamp="2011-05-03T15:54:03Z" user="Ed Avis" uid="31257" lat="51.4818514" lon="-0.1779446"/>
+ <node id="1271221900" visible="true" version="1" changeset="8040791" timestamp="2011-05-03T15:54:03Z" user="Ed Avis" uid="31257" lat="51.4818764" lon="-0.1779420"/>
+ <node id="1271221907" visible="true" version="1" changeset="8040791" timestamp="2011-05-03T15:54:03Z" user="Ed Avis" uid="31257" lat="51.4818797" lon="-0.1780268"/>
+ <node id="1271221909" visible="true" version="1" changeset="8040791" timestamp="2011-05-03T15:54:03Z" user="Ed Avis" uid="31257" lat="51.4817859" lon="-0.1780363"/>
+ <node id="1271221910" visible="true" version="1" changeset="8040791" timestamp="2011-05-03T15:54:03Z" user="Ed Avis" uid="31257" lat="51.4817817" lon="-0.1780440"/>
+ <node id="1271221911" visible="true" version="1" changeset="8040791" timestamp="2011-05-03T15:54:03Z" user="Ed Avis" uid="31257" lat="51.4817730" lon="-0.1780449"/>
+ <node id="1271221913" visible="true" version="1" changeset="8040791" timestamp="2011-05-03T15:54:03Z" user="Ed Avis" uid="31257" lat="51.4817691" lon="-0.1780394"/>
+ <node id="1271221914" visible="true" version="1" changeset="8040791" timestamp="2011-05-03T15:54:03Z" user="Ed Avis" uid="31257" lat="51.4817687" lon="-0.1780288"/>
+ <node id="1271221917" visible="true" version="1" changeset="8040791" timestamp="2011-05-03T15:54:03Z" user="Ed Avis" uid="31257" lat="51.4817722" lon="-0.1780223"/>
+ <node id="1271221930" visible="true" version="1" changeset="8040791" timestamp="2011-05-03T15:54:03Z" user="Ed Avis" uid="31257" lat="51.4817696" lon="-0.1779541"/>
+ <node id="1271221933" visible="true" version="1" changeset="8040791" timestamp="2011-05-03T15:54:03Z" user="Ed Avis" uid="31257" lat="51.4818113" lon="-0.1779498"/>
+ <node id="1271221934" visible="true" version="1" changeset="8040791" timestamp="2011-05-03T15:54:03Z" user="Ed Avis" uid="31257" lat="51.4818090" lon="-0.1778920"/>
+ <node id="1271221943" visible="true" version="1" changeset="8040791" timestamp="2011-05-03T15:54:04Z" user="Ed Avis" uid="31257" lat="51.4818457" lon="-0.1777252"/>
+ <node id="1271221946" visible="true" version="1" changeset="8040791" timestamp="2011-05-03T15:54:04Z" user="Ed Avis" uid="31257" lat="51.4818508" lon="-0.1778297"/>
+ <node id="1271221949" visible="true" version="1" changeset="8040791" timestamp="2011-05-03T15:54:04Z" user="Ed Avis" uid="31257" lat="51.4818134" lon="-0.1778344"/>
+ <node id="1271221951" visible="true" version="1" changeset="8040791" timestamp="2011-05-03T15:54:04Z" user="Ed Avis" uid="31257" lat="51.4818155" lon="-0.1778768"/>
+ <node id="1271221955" visible="true" version="1" changeset="8040791" timestamp="2011-05-03T15:54:04Z" user="Ed Avis" uid="31257" lat="51.4817674" lon="-0.1778828"/>
+ <node id="1271221959" visible="true" version="1" changeset="8040791" timestamp="2011-05-03T15:54:04Z" user="Ed Avis" uid="31257" lat="51.4817655" lon="-0.1778446"/>
+ <node id="1271221963" visible="true" version="1" changeset="8040791" timestamp="2011-05-03T15:54:04Z" user="Ed Avis" uid="31257" lat="51.4817602" lon="-0.1777359"/>
+ <way id="111618648" visible="true" version="1" changeset="8040791" timestamp="2011-05-03T15:54:03Z" user="Ed Avis" uid="31257">
+  <nd ref="1271221896"/>
+  <nd ref="1271221898"/>
+  <nd ref="1271221900"/>
+  <nd ref="1271221907"/>
+  <nd ref="1271221909"/>
+  <nd ref="1271221910"/>
+  <nd ref="1271221911"/>
+  <nd ref="1271221913"/>
+  <nd ref="1271221914"/>
+  <nd ref="1271221917"/>
+  <nd ref="1271221930"/>
+  <nd ref="1271221933"/>
+  <nd ref="1271221934"/>
+  <nd ref="1271221896"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="111618650" visible="true" version="1" changeset="8040791" timestamp="2011-05-03T15:54:04Z" user="Ed Avis" uid="31257">
+  <nd ref="1271221943"/>
+  <nd ref="1271221946"/>
+  <nd ref="1271221949"/>
+  <nd ref="1271221951"/>
+  <nd ref="1271221955"/>
+  <nd ref="1271221959"/>
+  <nd ref="1271221963"/>
+  <nd ref="1271221943"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+</osm>

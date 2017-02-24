@@ -1,26 +1,40 @@
-from mpl_toolkits.mplot3d import Axes3D
-import matplotlib.pyplot as plt
-import numpy as np
+import mpl_toolkits.mplot3d as a3
+import matplotlib.colors as colors
+import pylab as pl
+import scipy as sp
 
-fig = plt.figure()
-ax = fig.add_subplot(111, projection='3d')
-x, y = np.random.rand(2, 100) * 4
-hist, xedges, yedges = np.histogram2d(x, y, bins=4, range=[[0, 4], [0, 4]])
+vtx = [
+[550, 450, 350],#0
+[455, 519, 350],#1
+[491, 631, 350],#2
+[609, 631, 350],#3
+[645, 519, 350],#4
+[550, 450, 0],#5
+[455, 519, 0],#6
+[491, 631, 0],#7
+[609, 631, 0],#8
+[645, 519, 0],#9
+]
+n = 5
 
-# Construct arrays for the anchor positions of the 16 bars.
-# Note: np.meshgrid gives arrays in (ny, nx) so we use 'F' to flatten xpos,
-# ypos in column-major order. For numpy >= 1.7, we could instead call meshgrid
-# with indexing='ij'.
-xpos, ypos = np.meshgrid(xedges[:-1] , yedges[:-1])
-xpos = xpos.flatten('F')
-ypos = ypos.flatten('F')
-zpos = np.zeros_like(xpos)
+ax = a3.Axes3D(pl.figure())
+for i in range(len(vtx[0:n])):
+    wall = [vtx[i], vtx[(i+1)%n], vtx[(i+1)%n +n], vtx[i+n]]
+    square = a3.art3d.Poly3DCollection([wall])
+    square.set_color(colors.rgb2hex(sp.rand(4)))
+    ax.add_collection3d(square)
 
-# Construct arrays with the dimensions for the 16 bars.
-dx = 0.5 * np.ones_like(zpos)
-dy = dx.copy()
-dz = hist.flatten()
+bot = a3.art3d.Poly3DCollection([vtx[0:n]])
+top = a3.art3d.Poly3DCollection([vtx[n:n*2]])
 
-ax.bar3d(xpos, ypos, zpos, dx, dy, dz, color='b', zsort='average')
+bot.set_color(colors.rgb2hex(sp.rand(4)))
+top.set_color(colors.rgb2hex(sp.rand(4)))
+bot.set_edgecolor('k')
+ax.add_collection3d(bot)
+ax.add_collection3d(top)
 
-plt.show()
+ax.set_xlim(300, 700)
+ax.set_ylim(300, 700)
+ax.set_zlim(0, 700)
+
+pl.show()

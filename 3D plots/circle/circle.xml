@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.5.8 (32711 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="51.4533500" minlon="-0.1475600" maxlat="51.4535400" maxlon="-0.1471600"/>
+ <node id="2751862188" visible="true" version="1" changeset="21383408" timestamp="2014-03-29T14:08:49Z" user="ecatmur" uid="352985" lat="51.4534948" lon="-0.1474456"/>
+ <node id="2751862191" visible="true" version="1" changeset="21383408" timestamp="2014-03-29T14:08:49Z" user="ecatmur" uid="352985" lat="51.4534749" lon="-0.1474583"/>
+ <node id="2751862194" visible="true" version="1" changeset="21383408" timestamp="2014-03-29T14:08:49Z" user="ecatmur" uid="352985" lat="51.4534536" lon="-0.1474596"/>
+ <node id="2751862196" visible="true" version="1" changeset="21383408" timestamp="2014-03-29T14:08:49Z" user="ecatmur" uid="352985" lat="51.4534332" lon="-0.1474492"/>
+ <node id="2751862199" visible="true" version="1" changeset="21383408" timestamp="2014-03-29T14:08:49Z" user="ecatmur" uid="352985" lat="51.4534162" lon="-0.1474285"/>
+ <node id="2751862200" visible="true" version="1" changeset="21383408" timestamp="2014-03-29T14:08:49Z" user="ecatmur" uid="352985" lat="51.4534267" lon="-0.1472776"/>
+ <node id="2751862201" visible="true" version="1" changeset="21383408" timestamp="2014-03-29T14:08:49Z" user="ecatmur" uid="352985" lat="51.4534446" lon="-0.1472640"/>
+ <node id="2751862202" visible="true" version="1" changeset="21383408" timestamp="2014-03-29T14:08:49Z" user="ecatmur" uid="352985" lat="51.4534643" lon="-0.1472601"/>
+ <node id="2751862203" visible="true" version="1" changeset="21383408" timestamp="2014-03-29T14:08:49Z" user="ecatmur" uid="352985" lat="51.4534838" lon="-0.1472663"/>
+ <node id="2751862204" visible="true" version="1" changeset="21383408" timestamp="2014-03-29T14:08:49Z" user="ecatmur" uid="352985" lat="51.4535011" lon="-0.1472820"/>
+ <node id="2751862205" visible="true" version="1" changeset="21383408" timestamp="2014-03-29T14:08:49Z" user="ecatmur" uid="352985" lat="51.4534046" lon="-0.1473997"/>
+ <node id="2751862206" visible="true" version="1" changeset="21383408" timestamp="2014-03-29T14:08:49Z" user="ecatmur" uid="352985" lat="51.4533997" lon="-0.1473664"/>
+ <node id="2751862207" visible="true" version="1" changeset="21383408" timestamp="2014-03-29T14:08:49Z" user="ecatmur" uid="352985" lat="51.4534020" lon="-0.1473323"/>
+ <node id="2751862208" visible="true" version="1" changeset="21383408" timestamp="2014-03-29T14:08:49Z" user="ecatmur" uid="352985" lat="51.4534114" lon="-0.1473015"/>
+ <node id="2751862209" visible="true" version="1" changeset="21383408" timestamp="2014-03-29T14:08:49Z" user="ecatmur" uid="352985" lat="51.4535144" lon="-0.1473056"/>
+ <node id="2751862210" visible="true" version="1" changeset="21383408" timestamp="2014-03-29T14:08:49Z" user="ecatmur" uid="352985" lat="51.4535224" lon="-0.1473348"/>
+ <node id="2751862211" visible="true" version="1" changeset="21383408" timestamp="2014-03-29T14:08:49Z" user="ecatmur" uid="352985" lat="51.4535244" lon="-0.1473664"/>
+ <node id="2751862212" visible="true" version="1" changeset="21383408" timestamp="2014-03-29T14:08:49Z" user="ecatmur" uid="352985" lat="51.4535200" lon="-0.1473975"/>
+ <node id="2751862213" visible="true" version="1" changeset="21383408" timestamp="2014-03-29T14:08:49Z" user="ecatmur" uid="352985" lat="51.4535098" lon="-0.1474248"/>
+ <node id="4318046276" visible="true" version="1" changeset="40987805" timestamp="2016-07-24T10:19:13Z" user="zcapw15" uid="155187" lat="51.4533729" lon="-0.1470425"/>
+ <node id="4318046277" visible="true" version="1" changeset="40987805" timestamp="2016-07-24T10:19:13Z" user="zcapw15" uid="155187" lat="51.4534034" lon="-0.1471549"/>
+ <node id="4318046278" visible="true" version="1" changeset="40987805" timestamp="2016-07-24T10:19:13Z" user="zcapw15" uid="155187" lat="51.4534352" lon="-0.1472711"/>
+ <way id="270105298" visible="true" version="4" changeset="41087945" timestamp="2016-07-28T14:58:53Z" user="zcapw15" uid="155187">
+  <nd ref="2751862209"/>
+  <nd ref="2751862210"/>
+  <nd ref="2751862211"/>
+  <nd ref="2751862212"/>
+  <nd ref="2751862213"/>
+  <nd ref="2751862188"/>
+  <nd ref="2751862191"/>
+  <nd ref="2751862194"/>
+  <nd ref="2751862196"/>
+  <nd ref="2751862199"/>
+  <nd ref="2751862205"/>
+  <nd ref="2751862206"/>
+  <nd ref="2751862207"/>
+  <nd ref="2751862208"/>
+  <nd ref="2751862200"/>
+  <nd ref="4318046278"/>
+  <nd ref="2751862201"/>
+  <nd ref="2751862202"/>
+  <nd ref="2751862203"/>
+  <nd ref="2751862204"/>
+  <nd ref="2751862209"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Clapham South Deep Level Shelter"/>
+  <tag k="wikipedia" v="en:London deep-level shelters"/>
+ </way>
+ <way id="432853035" visible="true" version="3" changeset="40995377" timestamp="2016-07-24T17:26:22Z" user="zcapw15" uid="155187">
+  <nd ref="4318046276"/>
+  <nd ref="4318046277"/>
+  <nd ref="4318046278"/>
+  <tag k="access" v="private"/>
+  <tag k="amenity" v="shelter"/>
+  <tag k="area" v="no"/>
+  <tag k="depth" v="30 m"/>
+  <tag k="FIXME" v="position"/>
+  <tag k="level" v="-3"/>
+  <tag k="listed_status" v="Grade II"/>
+  <tag k="name" v="Clapham South Deep Level Shelter"/>
+  <tag k="shelter_type" v="bomb_shelter"/>
+  <tag k="tunnel" v="yes"/>
+  <tag k="width" v="3 m"/>
+  <tag k="wikipedia" v="en:London deep-level shelters"/>
+ </way>
+</osm>
