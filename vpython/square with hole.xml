@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.5.8 (32733 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="51.4971100" minlon="-0.0640300" maxlat="51.4975800" maxlon="-0.0632800"/>
+ <node id="1735738476" visible="true" version="1" changeset="11452858" timestamp="2012-04-29T20:57:07Z" user="Tom Chance" uid="346" lat="51.4972618" lon="-0.0639053">
+  <tag k="natural" v="tree"/>
+  <tag k="note" v="Accurate as of 2010"/>
+  <tag k="operator" v="London Borough of Southwark"/>
+  <tag k="source" v="London Borough of Southwark"/>
+  <tag k="species" v="Sorbus"/>
+ </node>
+ <node id="1735739060" visible="true" version="1" changeset="11452858" timestamp="2012-04-29T20:57:24Z" user="Tom Chance" uid="346" lat="51.4973138" lon="-0.0633190">
+  <tag k="natural" v="tree"/>
+  <tag k="note" v="Accurate as of 2010"/>
+  <tag k="operator" v="London Borough of Southwark"/>
+  <tag k="source" v="London Borough of Southwark"/>
+  <tag k="species" v="Sorbus"/>
+ </node>
+ <node id="1735739963" visible="true" version="5" changeset="45709053" timestamp="2017-02-01T14:26:35Z" user="Stereo_repair" uid="5234603" lat="51.4974708" lon="-0.0633439">
+  <tag k="leaf_cycle" v="deciduous"/>
+  <tag k="leaf_type" v="broadleaved"/>
+  <tag k="natural" v="tree"/>
+  <tag k="note" v="Accurate as of 2010"/>
+  <tag k="operator" v="London Borough of Southwark"/>
+  <tag k="source" v="London Borough of Southwark"/>
+  <tag k="species" v="Platanus X hispanica"/>
+  <tag k="species:en" v="London plane"/>
+ </node>
+ <node id="4346171809" visible="true" version="1" changeset="41392792" timestamp="2016-08-11T16:38:24Z" user="peregrination" uid="486343" lat="51.4971526" lon="-0.0641324"/>
+ <node id="4346171810" visible="true" version="1" changeset="41392792" timestamp="2016-08-11T16:38:24Z" user="peregrination" uid="486343" lat="51.4970819" lon="-0.0641016"/>
+ <node id="4346171813" visible="true" version="1" changeset="41392792" timestamp="2016-08-11T16:38:24Z" user="peregrination" uid="486343" lat="51.4971657" lon="-0.0640189"/>
+ <node id="4346171814" visible="true" version="1" changeset="41392792" timestamp="2016-08-11T16:38:24Z" user="peregrination" uid="486343" lat="51.4971274" lon="-0.0639997"/>
+ <node id="4346171815" visible="true" version="1" changeset="41392792" timestamp="2016-08-11T16:38:24Z" user="peregrination" uid="486343" lat="51.4971214" lon="-0.0640651"/>
+ <node id="4346171816" visible="true" version="1" changeset="41392792" timestamp="2016-08-11T16:38:24Z" user="peregrination" uid="486343" lat="51.4970879" lon="-0.0640439"/>
+ <node id="4346171817" visible="true" version="1" changeset="41392792" timestamp="2016-08-11T16:38:24Z" user="peregrination" uid="486343" lat="51.4971861" lon="-0.0632996"/>
+ <node id="4346171818" visible="true" version="1" changeset="41392792" timestamp="2016-08-11T16:38:24Z" user="peregrination" uid="486343" lat="51.4975776" lon="-0.0634439"/>
+ <node id="4346171819" visible="true" version="1" changeset="41392792" timestamp="2016-08-11T16:38:24Z" user="peregrination" uid="486343" lat="51.4975177" lon="-0.0638554"/>
+ <node id="4346171820" visible="true" version="1" changeset="41392792" timestamp="2016-08-11T16:38:24Z" user="peregrination" uid="486343" lat="51.4971238" lon="-0.0637170"/>
+ <node id="4346171821" visible="true" version="1" changeset="41392792" timestamp="2016-08-11T16:38:24Z" user="peregrination" uid="486343" lat="51.4974670" lon="-0.0636900"/>
+ <node id="4346171822" visible="true" version="1" changeset="41392792" timestamp="2016-08-11T16:38:24Z" user="peregrination" uid="486343" lat="51.4974863" lon="-0.0635520"/>
+ <node id="4346171823" visible="true" version="1" changeset="41392792" timestamp="2016-08-11T16:38:24Z" user="peregrination" uid="486343" lat="51.4972426" lon="-0.0634706"/>
+ <node id="4346171824" visible="true" version="1" changeset="41392792" timestamp="2016-08-11T16:38:24Z" user="peregrination" uid="486343" lat="51.4972245" lon="-0.0636067"/>
+ <node id="4346171825" visible="true" version="1" changeset="41392792" timestamp="2016-08-11T16:38:24Z" user="peregrination" uid="486343" lat="51.4974985" lon="-0.0640184"/>
+ <node id="4346171826" visible="true" version="1" changeset="41392792" timestamp="2016-08-11T16:38:24Z" user="peregrination" uid="486343" lat="51.4974059" lon="-0.0639801"/>
+ <node id="4346171827" visible="true" version="1" changeset="41392792" timestamp="2016-08-11T16:38:24Z" user="peregrination" uid="486343" lat="51.4974265" lon="-0.0638234"/>
+ <way id="436743537" visible="true" version="1" changeset="41392792" timestamp="2016-08-11T16:38:26Z" user="peregrination" uid="486343">
+  <nd ref="4346171813"/>
+  <nd ref="4346171814"/>
+  <nd ref="4346171815"/>
+  <nd ref="4346171816"/>
+  <nd ref="4346171810"/>
+  <nd ref="4346171809"/>
+  <nd ref="4346171813"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:street" v="Gillison Walk"/>
+  <tag k="building" v="house"/>
+ </way>
+ <way id="436743538" visible="true" version="1" changeset="41392792" timestamp="2016-08-11T16:38:26Z" user="peregrination" uid="486343">
+  <nd ref="4346171817"/>
+  <nd ref="4346171818"/>
+  <nd ref="4346171819"/>
+  <nd ref="4346171827"/>
+  <nd ref="4346171820"/>
+  <nd ref="4346171817"/>
+ </way>
+ <way id="436743539" visible="true" version="1" changeset="41392792" timestamp="2016-08-11T16:38:26Z" user="peregrination" uid="486343">
+  <nd ref="4346171821"/>
+  <nd ref="4346171822"/>
+  <nd ref="4346171823"/>
+  <nd ref="4346171824"/>
+  <nd ref="4346171821"/>
+  <tag k="area" v="yes"/>
+ </way>
+ <way id="436743540" visible="true" version="1" changeset="41392792" timestamp="2016-08-11T16:38:26Z" user="peregrination" uid="486343">
+  <nd ref="4346171819"/>
+  <nd ref="4346171825"/>
+  <nd ref="4346171826"/>
+  <nd ref="4346171827"/>
+  <nd ref="4346171819"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <relation id="6484397" visible="true" version="1" changeset="41392792" timestamp="2016-08-11T16:38:26Z" user="peregrination" uid="486343">
+  <member type="way" ref="436743538" role="outer"/>
+  <member type="way" ref="436743539" role="inner"/>
+  <tag k="building" v="apartments"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+</osm>
